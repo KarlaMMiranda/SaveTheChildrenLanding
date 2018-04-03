@@ -16,10 +16,13 @@
 10. Conclusiones
 
 ## 1. Objetivos principales
-
+- Homologar la distribución estratégica de contenido en todos los canales digitales, aumentando un 10% la percepción positiva de la organización en un plazo de 6 meses.
+- Incrementar el número de donaciones desde la landing page  en un 10%  en el transcurso de 30 días.
 
 ## 2. El cliente
+Save the Children es una organización no gubernamental que busca ayudar a niños, niñas y adolescentes con programas de protección, educación, salud y nutriión, entre otros, desde 1919 y en México desde 1973, con presencia en 18 entidades federativas.
 
+El objetivo principal de Save the Children, es recaudar donativos por medio de distintos canales: F2F, vía telefónica y landing page. Este último canal tiene un buen porcentaje de tráfico, pero este no es proporcional con el número de conversiones que se realizan. Por este motivo, Save the Children busca que el usuario de búsqueda pagada se convierta en donador activo optimizando la landing page y mejorando la experiencia de usuario dentro de la misma.
 
 ## 3. El usuario
 **Características:**
@@ -75,3 +78,5 @@ en promedio dona $250 pesos al mes
 ![Wireframe](UI/images/screencapture.png)
 
 ## 10. Conclusiones
+- El desarrollo del proyecto tuvo una buena organización.
+- El diseño fue apegado a la imagen institucional, pero se hizo la observación de que se puede optimizar presentando una versión más libre y atractiva para el usuario.
